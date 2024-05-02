@@ -1,5 +1,5 @@
 # Data Finding
-The dataset used in this project is the "Diabetes Health Indicators Dataset," available on Kaggle at this link. This dataset includes a wide range of health indicators collected through surveys, making it ideal for studying factors influencing diabetes and related health conditions.
+The dataset used in this project is the "Diabetes Health Indicators Dataset," available on Kaggle at this link. https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data This dataset includes a wide range of health indicators collected through surveys, making it ideal for studying factors influencing diabetes and related health conditions.
 
 # Importance of the Data
 
